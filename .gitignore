@@ -20,3 +20,6 @@ backend/app/static/outputs/
 .DS_Store
 .vscode/
 .idea/
+datasets/ 
+venv*/ 
+__pycache__/ 
