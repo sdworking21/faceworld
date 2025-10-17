@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pillow
+numpy
+opencv-python-headless
+insightface
+faiss-cpu
+python-multipart
+aiofiles
+requests
